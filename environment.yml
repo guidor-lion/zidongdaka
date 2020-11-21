@@ -1,12 +1,12 @@
 dependencies:
   - python=3
   - pip:
-    - requests
-    - BeautifulSoup
-    - parse
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - thinc
-    -datetime
+    - requests;
+    - BeautifulSoup;
+    - parse;
+    - numpy;
+    - scikit-learn;
+    - matplotlib;
+    - pandas;
+    - thinc;
+    - datetime;
